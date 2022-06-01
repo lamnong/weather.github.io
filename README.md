@@ -1,4 +1,7 @@
-# weather.github.io
+[weather.github.io](https://lamnong.github.io/weather.github.io/)
+
+Link to github: https://github.com/lamnong/weather.github.io
+
 
 User Story
 
